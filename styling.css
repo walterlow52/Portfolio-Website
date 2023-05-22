@@ -1,3 +1,5 @@
+
+
 footer {
    background: linear-gradient(to right, navy, blue) 
 }
@@ -8,6 +10,12 @@ footer a {
 
 footer a:hover {
    text-decoration: underline white solid 5px;  
+}
+
+footer i {
+   width: 50px;
+   height: 50px;
+   color: white;  
 }
 
 address {
