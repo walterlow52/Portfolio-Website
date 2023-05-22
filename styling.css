@@ -1,6 +1,11 @@
-i {
-   background-color: blue;  
-}
 footer {
-   
+   background: linear-gradient(to right, white, blue) 
+}
+
+footer a {
+   color: white;
+}
+
+footer a:hover {
+   text-decoration: underline white solid 5px;  
 }
