@@ -9,3 +9,11 @@ footer a {
 footer a:hover {
    text-decoration: underline white solid 5px;  
 }
+
+address {
+   color: white;  
+}
+
+#contact {
+   color: white;  
+}
