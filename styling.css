@@ -18,10 +18,20 @@ footer i {
    color: white;  
 }
 
+.buttons:hover {
+  background-color: white;
+  color: navy;
+}
+
 address {
    color: white;  
 }
 
 #contact {
-   color: white;  
+  display: block;
+  font-size: 20px;
+  background-color: navy;
+  color: white;
+  text-align: center;
+  border-radius: 12px;
 }
