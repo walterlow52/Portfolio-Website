@@ -28,10 +28,8 @@ address {
 }
 
 #contact {
-  display: block;
-  font-size: 20px;
-  background-color: navy;
-  color: white;
-  text-align: center;
-  border-radius: 12px;
+   display: block;
+   text-align: center;
+   background-color: white;
+   color: blue;
 }
