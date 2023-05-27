@@ -1,15 +1,8 @@
 
 
 footer {
-   background: linear-gradient(to right, black, navy) 
-}
-
-footer a {
+   background: linear-gradient(to right, black, navy);
    color: white;
-}
-
-footer a:hover {
-   text-decoration: underline white solid 5px;  
 }
 
 footer i {
@@ -23,7 +16,7 @@ footer i {
   font-size: 10px;
   background-color: navy;
   color: white;
-  text-align: ;eft;
+  text-align: left;
   border-radius: 12px;
 }
 
