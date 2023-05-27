@@ -24,3 +24,7 @@ footer i {
   background-color: white;
   color: navy;
 }
+
+address {
+  float: right;  
+}
