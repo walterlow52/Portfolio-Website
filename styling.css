@@ -18,6 +18,15 @@ footer i {
    color: white;  
 }
 
+.buttons {
+  display: block;
+  font-size: 20px;
+  background-color: navy;
+  color: white;
+  text-align: center;
+  border-radius: 12px;
+}
+
 .buttons:hover {
   background-color: white;
   color: navy;
