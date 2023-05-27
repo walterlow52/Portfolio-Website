@@ -12,11 +12,9 @@ footer i {
 }
 
 .buttons {
-  display: block;
-  font-size: 10px;
+  font-size: 20px;
   background-color: navy;
   color: white;
-  text-align: left;
   border-radius: 12px;
 }
 
