@@ -20,10 +20,10 @@ footer i {
 
 .buttons {
   display: block;
-  font-size: 20px;
+  font-size: 10px;
   background-color: navy;
   color: white;
-  text-align: center;
+  text-align: ;eft;
   border-radius: 12px;
 }
 
@@ -34,11 +34,4 @@ footer i {
 
 address {
    color: white;  
-}
-
-#contact {
-   display: block;
-   text-align: center;
-   background-color: white;
-   color: blue;
 }
