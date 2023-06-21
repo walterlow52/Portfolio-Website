@@ -46,6 +46,7 @@ footer i {
    text-align: center;*/
    display: flex;
    color: lime;
+   text-align: center;
    font-size: 10vw;
    font-weight: 500;
    height: 100px;
