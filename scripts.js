@@ -5,7 +5,7 @@ document.querySelector("#brand").onmouseover = e => {
   let iteration = 0;
   clearInterval(interval);
   interval = setInterval(() => {
-    e.target.innerText = e.target.innerText.split("").map((letters, i) => {
+    e.target.innerText = e.target.innerText.split("").map((letter, i) => {
       if (i < iteration) {
         return e.target.dataset.value(i);
       }
