@@ -40,7 +40,7 @@ footer i {
 #brand {
    /*font-weight: 500;
    height: 100px;*/
-   position: relative;
+   position: absolute;
    font-size: 80px;
    font-family: sans-serif;
    -webkit-text-stroke: 0.5vw white;
