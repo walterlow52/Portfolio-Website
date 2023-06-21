@@ -60,9 +60,9 @@ footer i {
    border-right: 2px solid lime;
    overflow: hidden;
    text-align: center;
-   text-shadow: 2px 2px 5px white;
-   animation: animate 10s linear infinite alternate;
-   -webkit-animation: animate 10s linear infinite alternate;
+   text-shadow: 5px 5px 10px white;
+   animation: animate 8s linear infinite alternate;
+   -webkit-animation: animate 8s linear infinite alternate;
 }
 
 @keyframes animate {
