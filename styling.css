@@ -42,7 +42,7 @@ footer i {
    height: 100px;
    position: relative;
    font-size: 80px;
-   font-family: sans-serif;
+   font-family: audiowide;
    -webkit-text-stroke: 0.5vw white;
    text-transform: uppercase;
    text-align: center;
@@ -72,11 +72,6 @@ footer i {
    70% {
       width: 100%;
    }
-}
-
-#brand:hover {
-   background-color: black;
-   color: lime;
 }
 
 /*address {
