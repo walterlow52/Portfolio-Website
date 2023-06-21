@@ -6,7 +6,7 @@ document.querySelector("#brand").onmouseover = e => {
   clearInterval(interval);
   interval = setInterval(() => {
     e.target.innerText = e.target.innerText.split("").map((letter, i) => {
-      if (index < iteration) {
+      if (i < iteration) {
         return e.target.dataset.value(i);
       }
       return letters[Math.floor(Math.random() * 26)]}).join("");
