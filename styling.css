@@ -37,14 +37,14 @@ footer i {
   color: navy;
 }
 
-#brand {
+/*#brand {
    font-weight: 500;
    height: 100px;
    position: relative;
    font-size: 100px;
    font-family: audiowide;
    text-transform: uppercase;
-}
+}*/
 
 #brand::before {
    content: attr(data-text);
