@@ -38,19 +38,18 @@ footer i {
 }
 
 #brand {
-   /*color: lime;
-   text-align: center;
-   font-size: 10vw;
-   font-weight: 500;
+   /*font-weight: 500;
    height: 100px;*/
    position: relative;
    font-size: 80px;
    font-family: sans-serif;
    -webkit-text-stroke: 0.5vw white;
    text-transform: uppercase;
+   text-align: center;
 }
 
 #brand::before {
+   content: attr(data-text);
    position: absolute;
    height: 100%;
    color: lime;
