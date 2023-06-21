@@ -43,6 +43,7 @@ footer i {
    color: white;
    padding: 0px clamp(16px, 2vw, 50px);
    border-radius: clamp(6px, 0.75vw, 16px);
+   text-align: center;
 }
 
 #brand:hover {
