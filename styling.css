@@ -1,4 +1,7 @@
-
+* {
+   background-color: black;
+   color: lime;
+}
 
 footer {
    background: linear-gradient(to right, black, navy);
