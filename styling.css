@@ -41,10 +41,9 @@ footer i {
    font-weight: 500;
    height: 100px;
    position: relative;
-   font-size: 80px;
+   font-size: 100px;
    font-family: audiowide;
    text-transform: uppercase;
-   /*text-align: center;*/
 }
 
 #brand::before {
