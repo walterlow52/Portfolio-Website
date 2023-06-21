@@ -38,17 +38,42 @@ footer i {
 }
 
 #brand {
-   color: lime;
+   /*color: lime;
    text-align: center;
    font-size: 10vw;
    font-weight: 500;
-   height: 100px;
+   height: 100px;*/
+   position: relative;
+   font-size: 80px;
+   font-family: sans-serif;
+   -webkit-text-stroke: 0.5vw white;
+   text-transform: uppercase;
 }
 
-#brand:hover {
+#brand::before {
+   position: absolute;
+   height: 100%;
+   color: lime;
+   -webkit-text-stroke: 0vw lime;
+   border-right: 2px solid lime;
+   overflow: hidden;
+   animation: highlight 6s linear infinite;
+   -webkit-animation: highlight 6s linear infinite;
+}
+
+@keyframes highlight {
+   0% {
+      width: 0%;
+   }
+   70% {
+      width: 100%;
+   }
+}
+
+/*#brand:hover {
    background-color: white;
    color: black;
-}
+}*/
 
 /*address {
   float: right;  
