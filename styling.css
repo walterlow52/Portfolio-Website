@@ -37,7 +37,7 @@ footer i {
   color: navy;
 }
 
-/*#brand {
+#brand {
    font-weight: 500;
    height: 100px;
    position: relative;
@@ -46,7 +46,7 @@ footer i {
    -webkit-text-stroke: 0.5vw white;
    text-transform: uppercase;
    text-align: center;
-}*/
+}
 
 #brand {
    content: attr(data-text);
@@ -59,20 +59,16 @@ footer i {
    -webkit-text-stroke: 0vw lime;
    border-right: 2px solid lime;
    overflow: hidden;
-   font-family: sans-serif;
-   font-weight: 500px;
-   text-transform: uppercase;
    text-align: center;
-   -webkit-text-stroke: 0.5vw white;
-   animation: highlight 6s linear infinite alternate;
-   -webkit-animation: highlight 6s linear infinite alternate;
+   animation: animate 6s linear infinite alternate;
+   -webkit-animation: animate 6s linear infinite alternate;
 }
 
-@keyframes highlight {
+@keyframes animate {
    0% {
       width: 0%;
    }
-   100% {
+   70% {
       width: 100%;
    }
 }
