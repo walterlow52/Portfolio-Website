@@ -51,6 +51,9 @@ footer i {
 #brand::before {
    content: attr(data-text);
    position: absolute;
+   top: 0;
+   left: 0;
+   width: 0%;
    height: 100%;
    color: lime;
    -webkit-text-stroke: 0vw lime;
