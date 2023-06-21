@@ -74,10 +74,10 @@ footer i {
    }
 }
 
-/*#brand:hover {
-   background-color: white;
-   color: black;
-}*/
+#brand:hover {
+   background-color: black;
+   color: lime;
+}
 
 /*address {
   float: right;  
