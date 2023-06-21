@@ -38,38 +38,17 @@ footer i {
 }
 
 #brand {
-   /*font-family: "Space Mono", monospace;
-   font-size: clamp(50px, 10vw, 160px);
-   color: white;
-   padding: 0px clamp(16px, 2vw, 50px);
-   border-radius: clamp(6px, 0.75vw, 16px);
-   text-align: center;*/
-   display: flex;
    color: lime;
    text-align: center;
    font-size: 10vw;
    font-weight: 500;
    height: 100px;
-   line-height: 100px;
-   overflow: hidden;
-   position: relative;
-   animation: slide 12s steps(4) infinite;
 }
 
 #brand:hover {
    background-color: white;
    color: black;
 }
-
-@keyframes slide {
-   100% {
-      animation: 3s steps(10) infinite;
-   }
-}
-
-/*@keyframes typing {
-   
-}*
 
 /*address {
   float: right;  
