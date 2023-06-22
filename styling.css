@@ -16,49 +16,6 @@ img {
    width: 200px;
 }
 
-a {
-   color: white;
-}
-
-button {
-   display: inline-block;
-   position: relative;
-   background-color: darkgreen;
-   color: white;
-   font-size: 20px;
-   cursor: pointer;
-   margin: 20px 20px;
-}
-
-button::before, button::after {
-   background-color: cyan;
-   height: 2px;
-   position: absolute;
-   transition: all 0.2s linear;
-   transition-duration: 0.4s;
-}
-
-button:hover::before, button:hover::after {
-   width: 100%;
-}
-
-button:hover {
-   height: 100%;
-}
-
-span {
-   display: block;
-   padding: 25px 80px;
-}
-
-span::before, span::after {
-   background-color: cyan;
-   width: 2px;
-   position: absolute;
-   transition: all 0.2s linear;
-   transition-duration: 0.4s;
-}
-
 footer {
    background: linear-gradient(to right, black, navy);
    color: white;
