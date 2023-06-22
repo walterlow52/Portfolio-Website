@@ -31,7 +31,7 @@ button {
 }
 
 button::before, button::after {
-   color: cyan;
+   background-color: cyan;
    height: 2px;
    position: absolute;
    transition: all 0.2s linear;
@@ -44,6 +44,19 @@ button:hover::before, button:hover::after {
 
 button:hover {
    height: 100%;
+}
+
+span {
+   display: block;
+   padding: 25px 80px;
+}
+
+span::before, span::after {
+   background-color: cyan;
+   width: 2px;
+   position: absolute;
+   transition: all 0.2s linear;
+   transition-duration: 0.4s;
 }
 
 footer {
