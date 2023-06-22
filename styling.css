@@ -66,3 +66,12 @@ footer i {
    animation: animate 8s linear infinite alternate;
    -webkit-animation: animate 8s linear infinite alternate;
 }
+
+@keyframes animate {
+   0% {
+      width: 0%;
+   }
+   70% {
+      width: 100%;
+   }
+}
