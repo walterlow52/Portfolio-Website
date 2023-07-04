@@ -6,7 +6,7 @@ public class inclass10 {
 	public static void main(String[] args) {
 		// declare variables
 		Scanner keybd = new Scanner(System.in);
-		System.out.print("This program analyzes if a given integer is positive, negative, or a zero number.\nEnter an integer: ");
+		System.out.println("This program analyzes if a given integer is positive, negative, or a zero number.\nEnter an integer: ");
 		int integer = keybd.nextInt();
 				
 		if (integer > 0)
