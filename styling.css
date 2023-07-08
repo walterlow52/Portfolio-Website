@@ -26,7 +26,6 @@ img {
 }
 
 nav {
-   display: inline;
    overflow: auto;
    width: 100%;
    height: auto;
@@ -39,6 +38,7 @@ nav {
 }
 
 nav li {
+   display: inline;
    color: lime;
    padding: 20px;
    text-transform: uppercase;
