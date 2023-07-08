@@ -26,6 +26,13 @@ img {
 
 li {
    display: inline;
+   color: white;
+   border: 5px double white;
+}
+
+li:hover {
+   background-color: white;
+   color: black;
 }
 
 footer {
