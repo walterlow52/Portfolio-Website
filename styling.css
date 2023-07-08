@@ -1,5 +1,6 @@
 * {
    position: relative;
+   font-family: audiowide;
 }
 
 html {
@@ -24,15 +25,26 @@ img {
    width: 200px;
 }
 
-li {
-   display: inline;
-   color: white;
-   border: 5px double white;
+nav {
+   display: inline-flex;
+   overflow: auto;
+   width: 100%;
+   height: auto;
+   padding-right: 20px;
+   border: 5px double white'
+   border-radius: 5px;
+   box-shadow: 10px 50px gray;
+   z-index: 1;
+   transition: .4s;
 }
 
-li:hover {
-   background-color: white;
-   color: black;
+nav li {
+   color: lime;
+   padding: 20px;
+   text-transform: uppercase;
+   transition: .5s;
+   font-size: 25px; 
+   font-weight: 500;
 }
 
 footer {
