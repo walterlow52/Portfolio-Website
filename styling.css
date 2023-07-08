@@ -98,7 +98,9 @@ img {
 }
 
 .github {
-   background-color: SlateGray;
+   background-image: url("https://github.blog/wp-content/uploads/2022/12/1200x640-1.png?fit=1200%2C640");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
 }
 
 .python {
