@@ -99,20 +99,23 @@ img {
 
 .github {
    background-image: url("https://github.blog/wp-content/uploads/2022/12/1200x640-1.png?fit=1200%2C640");
-   background-repeat: no-repeat;
    background-attachment: fixed;
+   width: 100%;
+   height: 100%;
 }
 
 .python {
    background-image: url("https://spectrum.ieee.org/media-library/the-python-logo-on-top-of-imagery-representing-dna-sequencing-or-other-data.jpg?id=33364099&width=980");
-   background-repeat: no-repeat;
    background-attachment: fixed;
+   width: 100%;
+   height: 100%;
 }
 
 .java {
    background-image: url("https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg?auto=webp&quality=85,70");
-   background-repeat: no-repeat;
    background-attachment: fixed;
+   width: 100%;
+   height: 100%;
 }
 
 #brand {
