@@ -84,7 +84,10 @@ span {
 
 #aboutme {
    text-align: center;
-   list-style-type: none;
+}
+
+#projects {
+   margin-bottom: 50px;
 }
 
 #brand {
