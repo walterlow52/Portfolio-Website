@@ -15,6 +15,10 @@ header {
    text-align: center;
 }
 
+header summary {
+   float: right;
+}
+
 img {
    height: 200px;
    width: 200px;
@@ -55,10 +59,6 @@ span {
 
 #aboutme {
    text-align: center;
-}
-
-summary p {
-   float: right;
 }
 
 #brand {
