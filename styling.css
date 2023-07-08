@@ -68,6 +68,11 @@ span {
    color: white;
 }
 
+img {
+   width: 300px;
+   height: 200px;
+}
+
 .buttons {
   font-size: 20px;
   padding: 5px;
