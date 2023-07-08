@@ -21,7 +21,7 @@ header img {
    height: 400px;
    width: 500px;
    border-radius: 12px;
-   margin: 100px 50px;
+   margin: 50px 20px;
 }
 
 nav {
@@ -85,7 +85,7 @@ img {
 
 #aboutme {
    text-align: center;
-   margin-top: 120px;
+   margin-top: 150px;
 }
 
 #projects {
