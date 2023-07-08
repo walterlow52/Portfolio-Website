@@ -30,6 +30,8 @@ nav {
    color: black;
    overflow: auto;
    width: 100%;
+   height: auto;
+   z-index: 1;
    padding-right: 20px;
    border: 5px double white;
    border-radius: 5px;
