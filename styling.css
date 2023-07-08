@@ -57,6 +57,10 @@ span {
    text-align: center;
 }
 
+#aboutme p {
+   float: right;
+}
+
 #brand {
    font-weight: 500;
    height: 100px;
