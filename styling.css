@@ -20,9 +20,11 @@ header summary {
    float: right;
 }
 
-img {
+header img {
+   float: left;
    height: 400px;
    width: 500px;
+   border-radius: 12px;
 }
 
 nav {
