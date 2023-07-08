@@ -40,7 +40,6 @@ nav {
 
 nav li {
    display: inline;
-   padding: 20px;
    transition: .5s;
    font-size: 25px; 
    font-weight: 500;
