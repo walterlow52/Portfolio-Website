@@ -12,6 +12,10 @@ body {
    color: lime;
 }
 
+li {
+   list-style-type: none;
+}
+
 header {
    text-align: center;
 }
