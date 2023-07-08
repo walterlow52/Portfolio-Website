@@ -49,6 +49,10 @@ span {
   color: navy;
 }
 
+#aboutme {
+   text-align: center;
+}
+
 #brand {
    font-weight: 500;
    height: 100px;
