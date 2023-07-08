@@ -40,12 +40,15 @@ nav {
 
 nav li {
    display: inline;
-   color: lime;
    padding: 20px;
    text-transform: uppercase;
    transition: .5s;
    font-size: 25px; 
    font-weight: 500;
+}
+
+nav a {
+   color: black;
 }
 
 footer {
