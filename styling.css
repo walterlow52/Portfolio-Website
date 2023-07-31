@@ -131,6 +131,10 @@ img {
    transform: translate(250px, 0px);
 }
 
+.resume a {
+   color: black;
+}
+
 #brand {
    font-weight: 500;
    height: 100px;
