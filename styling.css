@@ -119,12 +119,16 @@ img {
    height: 100%;
 }
 
+.resume {
+   background-color: lime;
+   color: black;
+}
+
 #brand {
    font-weight: 500;
    height: 100px;
    position: relative;
    font-size: 100px;
-   font-family: audiowide;
    text-transform: uppercase;
 }
 
