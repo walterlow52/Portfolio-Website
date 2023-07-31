@@ -74,14 +74,14 @@ img {
    height: 200px;
 }
 
-#awards {
+.container {
    background-color: gold;
    color: black;
    margin-top: 100px;
    text-align: center;
 }
 
-#awards h1 {
+.container h1 {
    margin-bottom: 50px;
 }
 
