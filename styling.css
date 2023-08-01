@@ -88,18 +88,21 @@ img {
    text-align: center;
    background-color: midnightblue;
    color: white;
+   text-shadow: 2px 2px 5px black;
 }
 
 .python {
    text-align: center;
    background-color: aqua;
    color: white;
+   text-shadow: 2px 2px 5px yellow;
 }
 
 .java {
    text-align: center;
    background-color: red;
    color: white;
+   text-shadow: 2px 2px 5px orange;
 }
 
 .buttons {
