@@ -125,7 +125,7 @@ section {
    font-weight: 1000;
    margin: 4px 2px;
    cursor: pointer;
-   transform: translate(250px, 0px);
+   /*transform: translate(250px, 0px);*/
 }
 
 .resume a {
