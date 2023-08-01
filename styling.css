@@ -136,6 +136,11 @@ section {
    color: black;
 }
 
+#awards {
+   background-color: black;
+   color: gold;
+}
+
 #brand {
    font-weight: 500;
    height: 100px;
