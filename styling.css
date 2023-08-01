@@ -96,8 +96,8 @@ img {
    text-align: center;
    background-color: aqua;
    color: white;
-   text-shadow: 2px 2px 5px white;
-   border: 5px dashed gold;
+   text-shadow: 2px 2px 5px blue;
+   border: 5px dashed yellow;
    margin-top: 20px;
 }
 
