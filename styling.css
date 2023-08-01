@@ -137,7 +137,7 @@ section {
    color: black;
 }
 
-#awards {
+#awards, .cred {
    width: 100%;
    background-color: black;
    color: gold;
