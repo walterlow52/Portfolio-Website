@@ -137,7 +137,14 @@ section {
    color: black;
 }
 
-#awards, .cred {
+#awards {
+   width: 100%;
+   background-image: linear-gradient(to bottom right, gold, black, gold);
+   color: white;
+   text-shadow: 2px 2px 5px black;
+}
+
+.cred {
    width: 100%;
    background-color: black;
    color: gold;
