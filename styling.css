@@ -107,9 +107,9 @@ img {
 #projects {
    margin-top: 150px;
    text-align: center;
-   background-image: linear-gradient(to bottom right, aqua, white, cyan);
+   background-image: linear-gradient(to bottom right, blue, aqua, white, cyan, blue);
    color: white;
-   text-shadow: 2px 2px 5px aqua;
+   text-shadow: 2px 2px 5px black;
 }
 
 section {
