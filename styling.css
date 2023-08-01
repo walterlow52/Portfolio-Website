@@ -75,7 +75,7 @@ img {
 }
 
 .container {
-   background-color: gold;
+   background-color: goldenrod;
    color: black;
    text-align: center;
 }
@@ -96,8 +96,8 @@ img {
    text-align: center;
    background-color: aqua;
    color: white;
-   text-shadow: 2px 2px 5px yellow;
-   border: 5px dashed yellow;
+   text-shadow: 2px 2px 5px gold;
+   border: 5px dashed gold;
 }
 
 .java {
@@ -163,7 +163,7 @@ section {
 
 #awards {
    width: 100%;
-   background-image: linear-gradient(to bottom right, gold, black, gold);
+   background-image: linear-gradient(to bottom right, goldenrod, black, goldenrod);
    color: white;
    text-shadow: 2px 2px 5px black;
 }
@@ -171,7 +171,7 @@ section {
 .cred {
    width: 100%;
    background-color: black;
-   color: gold;
+   color: goldenrod;
 }
 
 #brand {
