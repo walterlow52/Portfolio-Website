@@ -89,6 +89,7 @@ img {
    background-color: midnightblue;
    color: white;
    text-shadow: 2px 2px 5px black;
+   border: 5px dashed white;
 }
 
 .python {
@@ -96,6 +97,7 @@ img {
    background-color: aqua;
    color: white;
    text-shadow: 2px 2px 5px yellow;
+   border: 5px dashed yellow;
 }
 
 .java {
@@ -103,6 +105,7 @@ img {
    background-color: red;
    color: white;
    text-shadow: 2px 2px 5px orange;
+   border: 5px dashed orange;
 }
 
 .buttons {
