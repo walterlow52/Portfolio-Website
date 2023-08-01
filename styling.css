@@ -106,6 +106,10 @@ img {
 
 #projects {
    margin-top: 150px;
+   text-align: center;
+   background-image: linear-gradient(to bottom right, aqua, white, cyan);
+   color: white;
+   text-shadow: 2px 2px 5px aqua;
 }
 
 section {
