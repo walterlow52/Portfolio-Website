@@ -1,6 +1,7 @@
 * {
    position: relative;
    font-family: Audiowide;
+   max-width: 100%;
 }
 
 html {
