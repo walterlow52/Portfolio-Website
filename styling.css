@@ -20,7 +20,7 @@ h3, header {
 header img {
    float: left;
    height: 400px;
-   max-width: 500px;
+   width: 500px;
    border-radius: 12px;
    margin: 50px 20px;
 }
