@@ -125,9 +125,7 @@ img {
 }
 
 details {
-   display: flex;
-   align-items: center;
-   justify-content: center;
+   text-shadow: 5px 5px black;
    font-size: 30px;
    color: white;
    font-weight: 500;
