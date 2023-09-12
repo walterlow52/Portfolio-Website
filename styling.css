@@ -124,6 +124,11 @@ img {
   color: navy;
 }
 
+details {
+   text-align: center;
+   font-size: 50px;
+}
+
 #aboutme {
    text-align: center;
    margin-top: 100px;
