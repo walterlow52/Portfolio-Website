@@ -110,6 +110,30 @@ img {
    border: 5px dashed orange;
 }
 
+.excel {
+   text-align: center;
+   background-color: green;
+   color: white;
+   text-shadow: 2px 2px 5px gray;
+   border: 5px dashed white;
+}
+
+.access {
+   text-align: center;
+   background-color: firebrick;
+   color: white;
+   text-shadow: 2px 2px 5px gray;
+   border: 5px dashed white;
+}
+
+.dashboard {
+   text-align: center;
+   background-color: white;
+   color: dodgerblue;
+   text-shadow: 2px 2px 5px black;
+   border: 5px dashed dodgerblue;
+}
+
 .buttons {
   display: block;
   border: 10px ridge white;
