@@ -1,0 +1,1 @@
+data.frame(January = c(90, 80, 100), Febuary = c(90, 70, 90), March = c(50, 100, 80), April = c(90, 100, 100), May = c(60, 80, 90), June = c(70, 100, 90))
