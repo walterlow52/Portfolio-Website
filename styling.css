@@ -168,6 +168,12 @@ details {
    background-image: linear-gradient(to bottom right, blue, aqua, white, cyan, blue);
    color: white;
    text-shadow: 2px 2px 5px black;
+   filter: grayscale(100%);
+   transition: filter 300ms;
+}
+
+#projects:is(:hover, :focus) {
+   filter: grayscale(0%);
 }
 
 section {
